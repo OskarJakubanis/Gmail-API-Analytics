@@ -31,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1-xg-B5SdTGIaWgvkJ9Qu7cRGGpNMuOqSuDG-Dd--
 2. Open the copied Google Sheet → Extensions → Apps Script and click **Run**.
 3. Give access to Apps Script to access your Gmail account 
 4. Wait for the script to process your emails — it imports around **500 emails per minute**, so total time depends on the number of emails in your inbox.
-5. Review the pivot table to identify high-frequency senders.
+5. Check the pivot sheet once the process is completed to review high-frequency senders.
 
 ## 🛠️ Requirements:
 
