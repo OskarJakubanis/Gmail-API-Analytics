@@ -4,21 +4,17 @@ A Google Apps Script project that leverages the Gmail API within **Google Worksp
 This solution has already been tested by several of my friends, and they are very satisfied with the results. 🎉
 
 
-## 🎯 Purpose
-
-Collect all incoming email addresses from Gmail, store them in a Google Sheet, and generate a pivot table with the number of emails per sender. This allows you to:
-
-1. 📌 Quickly identify frequent senders
-2. 📝 Perform further analysis for managing email rules
-3. 🗂️ Organize emails into folders
-4. 🚫 Unsubscribe from unwanted newsletters
-5. ❌ Block unwanted senders
 
 ## ⚙️ How it works:
 
 1. Google Apps Script reads the sender emails from your Gmail inbox in batches and stores them in the **RAW\_DATA** sheet.
 2. A pivot table in the **PIVOT** sheet counts occurrences of each sender.
-3. The data is ready for analysis by you or your team.
+3. The data is ready for analysis by you or your team, enabling you to:
+* 📌 Quickly identify frequent senders
+* 📝 Perform further analysis for managing email rules
+* 🗂️ Organize emails into folders
+* 🚫 Unsubscribe from unwanted newsletters
+* ❌ Block unwanted senders
 
 ## 💡 Notes
 
