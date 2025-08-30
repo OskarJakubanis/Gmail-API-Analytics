@@ -1,6 +1,8 @@
-# 📧 Mail\_Counter
+# 📧 Gmail Sender Analytics
 
-A Google Apps Script project that automates the collection and aggregation of Gmail senders into a pivot table using Google Sheets. This script has been used by several of my friends, and they are very satisfied with the results. 🎉
+A Google Apps Script project that leverages the Gmail API within **Google Workspace** to automate the collection and aggregation of email senders into a pivot table using Google Sheets.  
+This solution has already been tested by several of my friends, and they are very satisfied with the results. 🎉
+
 
 ## 🎯 Purpose
 
