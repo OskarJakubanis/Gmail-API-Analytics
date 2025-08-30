@@ -28,18 +28,12 @@ Collect all incoming email addresses from Gmail, store them in a Google Sheet, a
 
 ## 🚀 How to Run:
 
-1. Open this link and copy the file to your own drive (it contains two sheets: one for **raw data** and one for the pivot table):  
+1. Open this link and copy the file to your own google drive (it contains two sheets: one for **raw data** and one for the pivot table):  
 https://docs.google.com/spreadsheets/d/1-xg-B5SdTGIaWgvkJ9Qu7cRGGpNMuOqSuDG-Dd--Zgg/edit?usp=sharing
-2. Open the copied Google Sheet → Extensions → Apps Script and click **Run**.
-3. Give access to Apps Script to access your Gmail account 
+2. Open the copied file and go to Extensions → Apps Script and click **Run**.
+3. Give access to Apps Script to access your Gmail account.
 4. Wait for the script to process your emails — it imports around **500 emails per minute**, so total time depends on the number of emails in your inbox.
 5. Check the pivot sheet once the process is completed to review high-frequency senders.
-
-## 🛠️ Requirements:
-
-* Gmail account
-* Google Sheets (on Google Drive, not locally)
-* Google Apps Script (built into Sheets)
 
 ## 📬 Contact
 
