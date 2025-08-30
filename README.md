@@ -26,7 +26,7 @@ Collect all incoming email addresses from Gmail, store them in a Google Sheet, a
 
 ## 🚀 How to Run:
 
-1. Open this link and copy the sheet file to your own drive (it contains two sheets: one for **raw data** and one for the pivot table):  
+1. Open this link and copy the file to your own drive (it contains two sheets: one for **raw data** and one for the pivot table):  
 https://docs.google.com/spreadsheets/d/1-xg-B5SdTGIaWgvkJ9Qu7cRGGpNMuOqSuDG-Dd--Zgg/edit?usp=sharing
 2. Open the copied Google Sheet → Extensions → Apps Script and click **Run**.
 3. Give access to Apps Script to access your Gmail account 
