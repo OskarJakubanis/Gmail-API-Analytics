@@ -1,8 +1,8 @@
 # 📧 Gmail API Analytics
 
 A Google Apps Script project that leverages the Gmail API within **Google Workspace** to automate the collection and aggregation of email senders into a pivot table using Google Sheets.  
-This solution has already been tested by several of my friends, and they are very satisfied with the results. 🎉
-
+By counting your email senders (From), you can more easily manage your folders and make your email experience cleaner, more organized, and user-friendly.  
+This solution has already been tested by several of my friends, and they are very satisfied with the results 😎
 
 
 ## ⚙️ How it works:
@@ -20,7 +20,6 @@ This solution has already been tested by several of my friends, and they are ver
 
 * The script shows a warning when you run it and requires you to accept access; however, it is safe and only counts the sender emails.
 * Processes around **536 emails per minute**.
-* Maximum execution time is **6 minutes**, so the script uses **batch processing with triggers** to continue automatically in JavaScript.
 
 ## 🚀 How to Run:
 
@@ -33,4 +32,4 @@ https://docs.google.com/spreadsheets/d/1-xg-B5SdTGIaWgvkJ9Qu7cRGGpNMuOqSuDG-Dd--
 
 ## 📬 Contact
 
-Questions, suggestions or want to collaborate? Open an issue or connect directly.
+Do you like this project? If you have any questions or suggestions, please open an issue or connect directly.
